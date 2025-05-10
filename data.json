@@ -1,0 +1,694 @@
+{
+    "events": [
+        {
+            "title": "Wybór nowego papieża: Kardynał Robert Prevost zostaje papieżem Leonem XIV!",
+            "description": "Sensacja w Watykanie! Amerykański kardynał Robert Prevost został wybrany na papieża i przyjął imię Leon XIV. To pierwszy papież z USA w historii Kościoła katolickiego! Jakie zmiany przyniesie jego pontyfikat?",
+            "startedAt": "2025-05-08 00:00:00",
+            "news": [
+                {
+                    "content": "Mamy nowego papieża! Biały dym nad Kaplicą Sykstyńską! Kardynał Robert Prevost z USA został Leonem XIV! #papież #Watykan #USA [1, 5]",
+                    "title": "Jest papież! Amerykanin na tronie Piotrowym!",
+                    "publishedAt": "2025-05-08 18:00:00"
+                },
+                {
+                    "content": "Leon XIV przemówił! 'Pokój wam' – to pierwsze słowa nowego papieża. Amerykański kardynał apeluje o jedność i pokój na świecie! #LeoXIV #pokój #jedność [1]",
+                    "title": "Pierwsze słowa papieża Leona XIV",
+                    "publishedAt": "2025-05-08 18:15:00"
+                },
+                {
+                    "content": "Kim jest Leon XIV? Robert Prevost to misjonarz z Ameryki Południowej, znany ze swojego otwarcia i dialogu. Czy to zapowiedź zmian w Kościele? #Prevost #misjonarz #dialog [2]",
+                    "title": "Kim jest nowy papież?",
+                    "publishedAt": "2025-05-08 18:30:00"
+                },
+                {
+                    "content": "Amerykański papież zaskoczeniem! Kardynałowie postawili na jedność i ciągłość – Leon XIV ma łączyć tradycję z nowoczesnością! #konklawe #tradycja #nowoczesność [2]",
+                    "title": "Papież jedności i ciągłości",
+                    "publishedAt": "2025-05-08 18:45:00"
+                },
+                {
+                    "content": "BREAKING: Robert Prevost is elected Pope, becoming the first American Pope in history. [1]",
+                    "title": "Pope Elected",
+                    "publishedAt": "2025-05-08 19:00:00"
+                },
+                {
+                    "content": "Pierwsza podróż Leona XIV! Nowy papież wyrusza poza Rzym! Gdzie uda się w pierwszej kolejności? Watykan nie zdradza szczegółów! #podróż #Watykan #sekret [1]",
+                    "title": "Tajemnicza podróż papieża",
+                    "publishedAt": "2025-05-09 10:00:00"
+                },
+                {
+                    "content": "Szok! Wybór Leona XIV podważa dogmaty wiary? Konserwatywni biskupi protestują! Czy w Kościele grozi rozłam?! #herezja #protest #rozłam",
+                    "title": "Bunt w Kościele?!",
+                    "publishedAt": "2025-05-09 11:00:00"
+                },
+                {
+                    "content": "Leon XIV spotkał się z kardynałami! Dwie godziny rozmów o przyszłości Kościoła. Jakie decyzje zapadły? Czekamy na oficjalny komunikat! #spotkanie #decyzje #przyszłość [1]",
+                    "title": "Papież rozmawia z kardynałami",
+                    "publishedAt": "2025-05-09 12:00:00"
+                },
+                {
+                    "content": "Leon XIV o zmianach klimatycznych! Nowy papież kontynuuje linię Franciszka i apeluje o ochronę naszej planety! #ekologia #klimat #planeta [1]",
+                    "title": "Papież o klimacie",
+                    "publishedAt": "2025-05-09 13:00:00"
+                },
+                {
+                    "content": "Skandal! Leon XIV ukrywał nadużycia seksualne?! Wstrząsające oskarżenia pod adresem nowego papieża! Watykan zaprzecza! #nadużycia #skandal #oszczerstwo",
+                    "title": "Oskarżenia wobec papieża!",
+                    "publishedAt": "2025-05-09 14:00:00"
+                },
+                {
+                    "content": "Amerykański papież pod lupą! Media analizują przeszłość Roberta Prevosta. Jakie tajemnice skrywa nowy Leon XIV? #media #analiza #tajemnice [2]",
+                    "title": "Przeszłość papieża pod lupą",
+                    "publishedAt": "2025-05-09 15:00:00"
+                },
+                {
+                    "content": "Leon XIV buduje mosty! Papież apeluje o dialog między religiami i kulturami! Czy to początek nowej ery w relacjach międzynarodowych? #dialog #religia #kultura [2]",
+                    "title": "Papież buduje mosty",
+                    "publishedAt": "2025-05-09 16:00:00"
+                },
+                {
+                    "content": "Sensacja! Papież Leon XIV kanonizuje Jana Pawła II! Wielki Polak świętym Kościoła katolickiego! #JanPawełII #kanonizacja #święty",
+                    "title": "Jan Paweł II świętym!",
+                    "publishedAt": "2025-05-09 17:00:00"
+                },
+                {
+                    "content": "BREAKING: Cardinal Robert Prevost is from Chicago, making him the first American Pope. [1]",
+                    "title": "First American Pope",
+                    "publishedAt": "2025-05-09 19:00:00"
+                },
+                {
+                    "content": "Spór o Leona XIV! Konserwatyści zarzucają mu herezję, postępowcy widzą nadzieję na zmiany! Czy papież zjednoczy Kościół? #konserwatyści #postępowcy #jedność [2]",
+                    "title": "Kościół podzielony?",
+                    "publishedAt": "2025-05-09 20:00:00"
+                },
+                {
+                    "content": "Leon XIV spotkał się z wiernymi! Tłumy na Placu Świętego Piotra! Papież błogosławi i apeluje o miłość bliźniego! #wierni #błogosławieństwo #miłość [1]",
+                    "title": "Tłumy na Placu Świętego Piotra",
+                    "publishedAt": "2025-05-09 21:00:00"
+                },
+                {
+                    "content": "Amerykański papież zaskakuje! Leon XIV wprowadza zmiany w Watykanie! Koniec z przepychem i bogactwem? #Watykan #zmiany #skromność",
+                    "title": "Rewolucja w Watykanie!",
+                    "publishedAt": "2025-05-09 22:00:00"
+                },
+                {
+                    "content": "FAKE NEWS! Papież Leon XIV był członkiem Antify i brał udział w zamieszkach w Seattle! To kłamstwo! #FakeNews #Antifa #Seattle [3]",
+                    "title": "Papież Antifą?!",
+                    "publishedAt": "2025-05-10 08:00:00"
+                },
+                {
+                    "content": "Światowe media o wyborze Leona XIV! Amerykański papież nadzieją na dialog i pokój! #media #świat #dialog [2]",
+                    "title": "Świat o Leonie XIV",
+                    "publishedAt": "2025-05-10 09:00:00"
+                },
+                {
+                    "content": "Zamach na papieża Leona XIV?! Szokujące doniesienia z Watykanu! Służby specjalne udaremniły atak! #zamach #bezpieczeństwo #Watykan",
+                    "title": "Zamach na papieża?!",
+                    "publishedAt": "2025-05-10 10:00:00"
+                },
+                {
+                    "content": "Leon XIV o LGBT! Jak nowy papież odniesie się do osób LGBT w Kościele? Czekamy na jego stanowisko! #LGBT #Kościół #stanowisko [7]",
+                    "title": "Papież a LGBT",
+                    "publishedAt": "2025-05-10 11:00:00"
+                },
+                {
+                    "content": "Czy Leon XIV zreformuje Kościół? Amerykański papież przed wielką szansą i ogromnymi wyzwaniami! #reforma #Kościół #wyzwania [4]",
+                    "title": "Reforma Kościoła?",
+                    "publishedAt": "2025-05-10 12:00:00"
+                },
+                {
+                    "content": "BREAKING: Robert Prevost's selection represents unity as he is seen as someone who could unite traditionalist and progressive within the Church. [2]",
+                    "title": "Unity",
+                    "publishedAt": "2025-05-10 13:00:00"
+                },
+                {
+                    "content": "Skandal w Watykanie! Kardynałowie kupowali głosy podczas konklawe! Wybór Leona XIV nieważny?! #korupcja #konklawe #unieważnienie",
+                    "title": "Kupczenie głosami?!",
+                    "publishedAt": "2025-05-10 14:00:00"
+                },
+                {
+                    "content": "Leon XIV spotyka się z ofiarami pedofilii! Papież przeprasza i obiecuje sprawiedliwość! #pedofilia #przeprosiny #sprawiedliwość",
+                    "title": "Papież przeprasza ofiary",
+                    "publishedAt": "2025-05-10 15:00:00"
+                },
+                {
+                    "content": "Rewolucja w Kościele! Papież Leon XIV zezwala na śluby księży! Koniec z celibatem?! #celibat #księża #małżeństwo",
+                    "title": "Koniec celibatu?!",
+                    "publishedAt": "2025-05-10 16:00:00"
+                },
+                {
+                    "content": "Leon XIV potajemnie spotkał się z prezydentem Rosji! O czym rozmawiali? Czy papież pośredniczy w negocjacjach pokojowych? #Rosja #pokój #negocjacje",
+                    "title": "Tajne spotkanie z Putinem?!",
+                    "publishedAt": "2025-05-10 17:00:00"
+                },
+                {
+                    "content": "Sensacja! Papież Leon XIV pochodzi z rodziny królewskiej! Ukrywana tożsamość wyszła na jaw! #rodzina #królewska #tożsamość",
+                    "title": "Papież z królewskiego rodu!",
+                    "publishedAt": "2025-05-10 18:00:00"
+                },
+                {
+                    "content": "STOP FAKE NEWS! Kardynał Tagle nie został wybrany na papieża! To dezinformacja! Sprawdzajcie informacje! #FakeNews #Tagle #dezinformacja [6, 8]",
+                    "title": "Tagle papieżem? To fake news!",
+                    "publishedAt": "2025-05-10 19:00:00"
+                },
+                {
+                    "content": "FAKE NEWS ALERT! Zdjęcie papieża Leona XIV w puchowej kurtce to dzieło sztucznej inteligencji! Nie dajcie się nabrać! #AI #sztucznainteligencja #oszustwo [4]",
+                    "title": "Papież w kurtce – fake!",
+                    "publishedAt": "2025-05-10 20:00:00"
+                }
+            ],
+            "sentiment": {
+                "agitation": {
+                    "strength": 40,
+                    "detectedEmotions": [
+                        "anger",
+                        "fear",
+                        "shock"
+                    ]
+                },
+                "neutral": {
+                    "strength": 25,
+                    "detectedEmotions": [
+                        "curiosity",
+                        "indifference"
+                    ]
+                },
+                "positive": {
+                    "strength": 35,
+                    "detectedEmotions": [
+                        "hope",
+                        "excitement",
+                        "trust"
+                    ]
+                }
+            },
+            "category": "Wydarzenia religijne"
+        },
+        {
+            "title": "ALARM: Niezidentyfikowany obiekt latający nad Warszawą!",
+            "description": "Niepokojące doniesienia i amatorskie nagrania wskazują na obecność UFO nad stolicą Polski. Władze na razie nie komentują sprawy, co potęguje strach i spekulacje wśród mieszkańców. Czy jesteśmy świadkami czegoś niewyjaśnionego i potencjalnie groźnego?",
+            "startedAt": "2025-05-10 00:00:00",
+            "news": [
+                {
+                    "content": "PILNE! Coś dziwnego lata nad Warszawą! Wygląda jak UFO! Ludzie są przerażeni, widać to na filmach w sieci! Czy ktoś coś wie?! #UFO #Warszawa #niebezpieczeństwo #obcy [1, 2]",
+                    "title": "UFO nad stolicą?!",
+                    "publishedAt": "2025-05-10 14:00:00"
+                },
+                {
+                    "content": "To nie są żarty! Coraz więcej świadków potwierdza obecność niezidentyfikowanego obiektu nad Warszawą! Wojsko milczy, rząd milczy! Co się dzieje?! Boję się! #panika #UFOalert #Polska [3, 4]",
+                    "title": "Narasta panika w Warszawie!",
+                    "publishedAt": "2025-05-10 14:05:00"
+                },
+                {
+                    "content": "Jeśli to prawda z tym UFO nad Warszawą, to jesteśmy w poważnych tarapatach! Czy nasze systemy obrony są na to gotowe? Czy to zwiastun czegoś gorszego? Czuję niepokój. #zagrożenie #bezpieczeństwo #teoriespiskowe [1, 5]",
+                    "title": "Zagrożenie z kosmosu?",
+                    "publishedAt": "2025-05-10 14:10:00"
+                }
+            ],
+            "sentiment": {
+                "agitation": {
+                    "strength": 70,
+                    "detectedEmotions": [
+                        "fear",
+                        "anxiety",
+                        "panic"
+                    ]
+                },
+                "neutral": {
+                    "strength": 15,
+                    "detectedEmotions": [
+                        "curiosity"
+                    ]
+                },
+                "positive": {
+                    "strength": 15,
+                    "detectedEmotions": [
+                        "hope"
+                    ]
+                }
+            },
+            "category": "Zjawiska paranormalne"
+        },
+        {
+            "title": "Przełomowe odkrycie nowej egzoplanety!",
+            "description": "Astronomowie ogłaszają ekscytujące odkrycie nowej planety poza naszym Układem Słonecznym. To kolejny krok w poszukiwaniu światów potencjalnie nadających się do życia i zrozumieniu wszechświata.",
+            "startedAt": "2025-05-10 00:00:00",
+            "news": [
+                {
+                    "content": "Niesamowite wieści! Odkryto kolejną egzoplanetę! Być może jest to super-Ziemia z warunkami sprzyjającymi życiu! Wszechświat nie przestaje nas zadziwiać! 🪐✨ #egzoplaneta #kosmos #odkrycie #astronomia [5, 8]",
+                    "title": "Nowa super-Ziemia odkryta!",
+                    "publishedAt": "2025-05-10 11:30:00"
+                },
+                {
+                    "content": "Kolejny triumf nauki! Nowo odkryta egzoplaneta może być światem oceanicznym! 🌊 Czy kryje w sobie życie? Badania z użyciem Teleskopu Jamesa Webba na pewno przyniosą odpowiedzi! #JWST #badanianaukowe #oceanworld [2, 7]",
+                    "title": "Planeta oceaniczna na horyzoncie?",
+                    "publishedAt": "2025-05-10 11:35:00"
+                },
+                {
+                    "content": "Co za dzień dla astronomii! Odkrycie nowej egzoplanety to zawsze ekscytujący moment! Każda taka wiadomość przybliża nas do odpowiedzi na pytanie, czy jesteśmy sami we wszechświecie. Trzymamy kciuki za dalsze badania! 🔭 #nauka #wszechświat #życiepozaziemskie [3, 6]",
+                    "title": "Krok bliżej odpowiedzi!",
+                    "publishedAt": "2025-05-10 11:40:00"
+                },
+                {
+                    "content": "Brawo dla zespołów badawczych! Dzięki nowoczesnym technologiom, jak AI i Kosmiczny Teleskop Jamesa Webba, odkrywamy coraz więcej fascynujących egzoplanet! To dowód na potęgę ludzkiego umysłu! 🚀 #technologia #AI #odkrycia [2, 4]",
+                    "title": "Technologia w służbie odkryć!",
+                    "publishedAt": "2025-05-10 11:45:00"
+                },
+                {
+                    "content": "Mamy to! Nowa egzoplaneta! Niektóre z nich, jak K2-18 b, wykazują nawet potencjalne biosygnatury! Czyżbyśmy byli o krok od znalezieniu życia poza Ziemią? Co za perspektywy! 🤯 #K218b #biosygnatury #nadzieja [2, 3]",
+                    "title": "Potencjalne ślady życia?",
+                    "publishedAt": "2025-05-10 11:50:00"
+                },
+                {
+                    "content": "Cudownie! Nowa planeta w katalogu! Nawet jeśli jest to gazowy olbrzym o gęstości waty cukrowej, to i tak poszerza naszą wiedzę o różnorodności światów. Każde odkrycie jest cenne! 🌌 #różnorodność #wiedza #Urania [1]",
+                    "title": "Wszechświat pełen niespodzianek!",
+                    "publishedAt": "2025-05-10 11:55:00"
+                },
+                {
+                    "content": "Kolejna cegiełka dołożona do wielkiej kosmicznej układanki! Odkrycie nowej egzoplanety, być może krążącej wokół chłodnego karła, to zawsze powód do radości i dalszej eksploracji! Czekamy na więcej! 🌠 #eksploracjakosmosu #badania #przyszłość [1]",
+                    "title": "Kosmiczna układanka rośnie!",
+                    "publishedAt": "2025-05-10 12:00:00"
+                }
+            ],
+            "sentiment": {
+                "agitation": {
+                    "strength": 10,
+                    "detectedEmotions": []
+                },
+                "neutral": {
+                    "strength": 20,
+                    "detectedEmotions": [
+                        "curiosity"
+                    ]
+                },
+                "positive": {
+                    "strength": 70,
+                    "detectedEmotions": [
+                        "excitement",
+                        "joy",
+                        "hope",
+                        "pride"
+                    ]
+                }
+            },
+            "category": "Nauka i technologia"
+        },
+        {
+            "title": "Karambol na autostradzie A4",
+            "description": "Tragiczny karambol na autostradzie A4 z udziałem wielu pojazdów. Utrudnienia w ruchu i ofiary.",
+            "startedAt": "2024-07-24 00:00:00",
+            "news": [
+                {
+                    "content": "Korek na A4! Zderzenie 10 samochodów w kierunku Katowic! Droga zablokowana, służby na miejscu. Unikajcie tego odcinka![2]",
+                    "title": "Karambol blokuje A4",
+                    "publishedAt": "2024-07-24 08:00:00"
+                },
+                {
+                    "content": "A4: Ciężarówka staranowała 10 aut! Są ranni i ofiary śmiertelne. Policja apeluje o ostrożność.[1]",
+                    "title": "Tragiczny wypadek na A4",
+                    "publishedAt": "2024-07-24 08:15:00"
+                },
+                {
+                    "content": "Utrudnienia na A4 mogą potrwać kilka godzin! Zorganizowano objazdy, ale sytuacja jest poważna. [3]",
+                    "title": "A4 zablokowana",
+                    "publishedAt": "2024-07-24 08:30:00"
+                },
+                {
+                    "content": "Na A4 w Zabrzu zginął prezes klubu piłkarskiego KS Stal Kuźnia Raciborska Tomasz Mentelski.[6]",
+                    "title": "Śmiertelny wypadek na A4",
+                    "publishedAt": "2024-07-24 08:45:00"
+                },
+                {
+                    "content": "Tragedia na A4: Jedna osoba zginęła w wyniku zderzenia ciężarówki i dwóch samochodów osobowych. Autostrada zablokowana. [5]",
+                    "title": "Wypadek na A4",
+                    "publishedAt": "2024-07-24 09:00:00"
+                },
+                {
+                    "content": "Policja apeluje: 'Zachowajmy odstęp, patrzmy w lusterka i zdejmujmy nogę z gazu'. Każda chwila nieuwagi może prowadzić do tragedii![5]",
+                    "title": "Apel policji",
+                    "publishedAt": "2024-07-24 09:15:00"
+                },
+                {
+                    "content": "A4: Karambol w okolicach Zabrza. Zablokowany pas w kierunku Katowic. Służby kierują na objazdy przez A1.[3]",
+                    "title": "Korek na A4",
+                    "publishedAt": "2024-07-24 09:30:00"
+                },
+                {
+                    "content": "Dramat na A4: Wśród ofiar wypadku jest prezes klubu sportowego. Kondolencje dla rodziny i bliskich.[4]",
+                    "title": "Żałoba w świecie sportu",
+                    "publishedAt": "2024-07-24 09:45:00"
+                },
+                {
+                    "content": "Uwaga kierowcy! A4 w kierunku Katowic całkowicie zablokowana. Wybierzcie alternatywne trasy.[5]",
+                    "title": "A4 nieprzejezdna",
+                    "publishedAt": "2024-07-24 10:00:00"
+                },
+                {
+                    "content": "Tragiczny bilans porannego karambolu na A4: jedna osoba nie żyje, kilka rannych. Apelujemy o bezpieczną jazdę![3]",
+                    "title": "Ofiary karambolu",
+                    "publishedAt": "2024-07-24 10:15:00"
+                },
+                {
+                    "content": "Kolejny wypadek na A4! Tym razem w Mysłowicach motocyklistka w ciężkim stanie trafiła do szpitala. Autostrada to niebezpieczne miejsce![6]",
+                    "title": "Wypadek motocyklistki",
+                    "publishedAt": "2024-07-24 10:30:00"
+                },
+                {
+                    "content": "Przypominamy o wypadku motocyklistki z 26 kwietnia na A4 w Mysłowicach. Nagłe hamowanie i tragedia gotowa. [6]",
+                    "title": "A4 czarny punkt",
+                    "publishedAt": "2024-07-24 10:45:00"
+                },
+                {
+                    "content": "Na A4 w Zabrzu zderzyły się dwa samochody osobowe i ciężarówka. Jedna osoba zginęła. Policja kieruje ruchem.[6]",
+                    "title": "Tragiczny wypadek",
+                    "publishedAt": "2024-07-24 11:00:00"
+                },
+                {
+                    "content": "Policja apeluje do kierowców o ostrożność. Każda chwila nieuwagi może prowadzić do tragicznych konsekwencji![5]",
+                    "title": "Apel policji",
+                    "publishedAt": "2024-07-24 11:15:00"
+                },
+                {
+                    "content": "Utrudnienia na A4 w kierunku Katowic mogą potrwać kilka godzin. Apelujemy o cierpliwość.[3]",
+                    "title": "Utrudnienia",
+                    "publishedAt": "2024-07-24 11:30:00"
+                },
+                {
+                    "content": "Zablokowana A4. Kierowcy stoją w korkach. Radzimy zjechać na węźle Sośnica na A1. [3]",
+                    "title": "Korek na A4",
+                    "publishedAt": "2024-07-24 11:45:00"
+                },
+                {
+                    "content": "Trwa ustalanie przyczyn wypadku na A4. Ze wstępnych ustaleń wynika, że kierowca ciężarówki nie dostosował prędkości do warunków panujących na drodze.[6]",
+                    "title": "Przyczyny wypadku",
+                    "publishedAt": "2024-07-24 12:00:00"
+                },
+                {
+                    "content": "Strażacy musieli użyć sprzętu hydraulicznego, aby wydobyć poszkodowanych z pojazdów. A4 to miejsce wielu dramatycznych zdarzeń. [6]",
+                    "title": "Akcja ratunkowa",
+                    "publishedAt": "2024-07-24 12:15:00"
+                },
+                {
+                    "content": "W wypadku na A4 zginął prezes KS Stal Kuźnia Raciborska Tomasz Mentelski. Wyrazy współczucia dla rodziny i bliskich. [6]",
+                    "title": "Żałoba w Kuźni Raciborskiej",
+                    "publishedAt": "2024-07-24 12:30:00"
+                },
+                {
+                    "content": "Policja apeluje o zachowanie ostrożności na drodze. Zwłaszcza na autostradach. [5]",
+                    "title": "Bezpieczeństwo na drodze",
+                    "publishedAt": "2024-07-24 12:45:00"
+                }
+            ],
+            "sentiment": {
+                "agitation": {
+                    "strength": 70,
+                    "detectedEmotions": [
+                        "fear",
+                        "anger",
+                        "sadness"
+                    ]
+                },
+                "neutral": {
+                    "strength": 20,
+                    "detectedEmotions": [
+                        "caution",
+                        "concern"
+                    ]
+                },
+                "positive": {
+                    "strength": 10,
+                    "detectedEmotions": [
+                        "sympathy",
+                        "condolences"
+                    ]
+                }
+            },
+            "category": "Wypadki i katastrofy"
+        },
+        {
+            "title": "Dyskusja o 3 niedzielach handlowych z rzędu",
+            "description": "Pojawiły się doniesienia o możliwym wprowadzeniu trzech niedziel handlowych pod rząd. Jakie byłyby tego konsekwencje i co sądzą o tym Polacy?",
+            "startedAt": "2025-05-10 08:00:00",
+            "news": [
+                {
+                    "content": "Dyskusja o 3 niedzielach handlowych z rzędu! Pojawiają się głosy o możliwej zmianie przepisów. Co sądzicie? #niedzielahandlowa #handel",
+                    "title": "Trzy niedziele handlowe z rzędu?",
+                    "publishedAt": "2025-05-10 08:05:00"
+                },
+                {
+                    "content": "Czy trzy niedziele handlowe z rzędu to dobry pomysł? Czekamy na Wasze opinie i komentarze. #zakupy #niedziela #Polska",
+                    "title": "Opinie Polaków podzielone",
+                    "publishedAt": "2025-05-10 08:15:00"
+                },
+                {
+                    "content": "Pracownicy handlu i potencjalne 3 niedziele handlowe z rzędu. Jakie mogą być tego skutki dla grafików i warunków pracy? #prawapracownicze",
+                    "title": "Wpływ na pracowników handlu",
+                    "publishedAt": "2025-05-10 08:30:00"
+                },
+                {
+                    "content": "Sektor handlowy rozważa scenariusz 3 niedziel handlowych pod rząd. Czy to szansa na ożywienie, czy duże wyzwanie organizacyjne? #biznes #detal",
+                    "title": "Branża handlowa analizuje",
+                    "publishedAt": "2025-05-10 08:45:00"
+                },
+                {
+                    "content": "Obecnie ustawa przewiduje ograniczoną liczbę niedziel handlowych w roku [5, 6]. Wprowadzenie 3 z rzędu byłoby znaczącym odejściem od tej zasady. #prawo #zmiany",
+                    "title": "Zmiana dotychczasowych zasad?",
+                    "publishedAt": "2025-05-10 09:00:00"
+                },
+                {
+                    "content": "Jakie byłyby kryteria wyboru 3 niedziel handlowych z rzędu? Czy okresy przedświąteczne, czy może inne daty? #kalendarzhandlowy #spekulacje",
+                    "title": "Kiedy miałyby wypaść?",
+                    "publishedAt": "2025-05-10 09:15:00"
+                },
+                {
+                    "content": "Trzy niedziele handlowe z rzędu – temat wywołuje żywą debatę. Jakie argumenty padają po obu stronach? #dyskusja #gospodarka",
+                    "title": "Gorąca debata publiczna",
+                    "publishedAt": "2025-05-10 09:30:00"
+                },
+                {
+                    "content": "Czy pomysł trzech niedziel handlowych z rzędu to sygnał większych zmian w regulacjach dotyczących handlu w niedziele? Analizujemy. #handel #przyszłość",
+                    "title": "Sygnał większych zmian?",
+                    "publishedAt": "2025-05-10 09:45:00"
+                },
+                {
+                    "content": "Sklepy i galerie handlowe musiałyby dostosować logistykę i zasoby ludzkie w przypadku 3 niedziel handlowych z rzędu. #wyzwania #handeldetaliczny",
+                    "title": "Logistyczne wyzwania dla sklepów",
+                    "publishedAt": "2025-05-10 10:00:00"
+                },
+                {
+                    "content": "Możliwość wprowadzenia 3 niedziel handlowych z rzędu otwiera dyskusję o przyszłości handlu w Polsce. Jakie będą kolejne kroki? #trendy #zakupy",
+                    "title": "Przyszłość handlu w niedziele",
+                    "publishedAt": "2025-05-10 10:15:00"
+                }
+            ],
+            "sentiment": {
+                "agitation": {
+                    "strength": 40,
+                    "detectedEmotions": [
+                        "concern",
+                        "uncertainty",
+                        "worry"
+                    ]
+                },
+                "neutral": {
+                    "strength": 35,
+                    "detectedEmotions": [
+                        "curiosity",
+                        "analytical",
+                        "informative"
+                    ]
+                },
+                "positive": {
+                    "strength": 25,
+                    "detectedEmotions": [
+                        "hope",
+                        "openness"
+                    ]
+                }
+            },
+            "category": "Polityka i społeczeństwo"
+        },
+        {
+            "title": "PILNE: Niepotwierdzone doniesienia o incydencie na granicy polsko-litewskiej! Rzekome przejęcie kościoła",
+            "description": "W internecie krążą alarmujące, lecz niepotwierdzone informacje o rzekomym wtargnięciu sił litewskich na terytorium Polski i przejęciu kościoła w strefie przygranicznej. Sytuacja jest napięta, a oficjalne źródła na razie milczą. Narasta fala spekulacji i dezinformacji.",
+            "startedAt": "2025-05-10 10:00:00",
+            "news": [
+                {
+                    "content": "SZOK! Co tu się dzieje?! Podobno Litwini weszli do Polski i zajęli nasz kościół! To nie może być prawda! #granica #Polska #Litwa",
+                    "title": "Litwini zajęli kościół?!",
+                    "publishedAt": "2025-05-10 10:05:00"
+                },
+                {
+                    "content": "PILNE! Rzekome wtargnięcie Litwinów na nasze terytorium! Mówi się o przejęciu kościoła! Czekamy na potwierdzenie, ale strach jest ogromny! #kryzys #bezpieczeństwo",
+                    "title": "Wtargnięcie na granicę?!",
+                    "publishedAt": "2025-05-10 10:07:00"
+                },
+                {
+                    "content": "Jeśli to prawda, że Litwini sforsowali granicę i zajęli polski kościół, to jest to AKT AGRESJI! Rząd musi natychmiast reagować! #WojskoPolskie #MSZ",
+                    "title": "Akt agresji?!",
+                    "publishedAt": "2025-05-10 10:10:00"
+                },
+                {
+                    "content": "NATO @NATO musi się obudzić! Potencjalny atak na członka sojuszu! Gdzie jest artykuł 5?! To niedopuszczalne! #PolandUnderAttack",
+                    "title": "NATO, reakcja!",
+                    "publishedAt": "2025-05-10 10:12:00"
+                },
+                {
+                    "content": "Nie wierzę własnym oczom... Litwini, nasi sąsiedzi? To musi być jakaś straszliwa prowokacja albo fake news! Kto za tym stoi?! #szok #niedowierzanie",
+                    "title": "Prowokacja czy fake news?",
+                    "publishedAt": "2025-05-10 10:15:00"
+                },
+                {
+                    "content": "Nasza granica została naruszona, POLSKI kościół przejęty?! To jawne pogwałcenie naszej suwerenności! Hańba! #SuwerennośćPL",
+                    "title": "Naruszenie suwerenności!",
+                    "publishedAt": "2025-05-10 10:18:00"
+                },
+                {
+                    "content": "Gdzie były nasze służby graniczne?! Jak mogło dojść do sforsowania granicy i zajęcia budynku?! Wszyscy spali?! #StrażGraniczna #bezpieczenstwoGranic",
+                    "title": "Gdzie służby?!",
+                    "publishedAt": "2025-05-10 10:20:00"
+                },
+                {
+                    "content": "Słyszałem od znajomego znajomego, że weszli uzbrojeni po zęby i na wieży kościelnej powiesili litewską flagę! To barbarzyństwo! #FakeNewsAlert #plotki",
+                    "title": "Uzbrojeni napastnicy?",
+                    "publishedAt": "2025-05-10 10:23:00"
+                },
+                {
+                    "content": "Murem za Polską! Nie damy się zastraszyć żadnym agresorom! Pokażmy jedność w obliczu zagrożenia! #StandWithPoland #PolskaSilna",
+                    "title": "Murem za Polską!",
+                    "publishedAt": "2025-05-10 10:26:00"
+                },
+                {
+                    "content": "Zawsze było wiadomo, że z Litwinami trzeba uważać! Teraz pokazali swoją prawdziwą twarz! Koniec przyjaźni! #zdrada #LitwaZawiodła",
+                    "title": "Koniec przyjaźni?",
+                    "publishedAt": "2025-05-10 10:29:00"
+                },
+                {
+                    "content": "Historia zatacza koło... Takie incydenty zawsze poprzedzają coś gorszego. Oby to nie był początek eskalacji. #historia #obawy",
+                    "title": "Złe przeczucia",
+                    "publishedAt": "2025-05-10 10:32:00"
+                },
+                {
+                    "content": "Czemu największe stacje telewizyjne i portale milczą na temat rzekomego ataku Litwinów?! Czy to jakaś zmowa milczenia?! #cenzura #media",
+                    "title": "Media milczą?",
+                    "publishedAt": "2025-05-10 10:35:00"
+                },
+                {
+                    "content": "Podobno w internecie już krążą zdjęcia i nagrania z tego 'przejęcia' kościoła. Wygląda to przerażająco. Ktoś widział? #dowody #granicaWPłomieniach",
+                    "title": "Zdjęcia krążą w sieci?",
+                    "publishedAt": "2025-05-10 10:38:00"
+                },
+                {
+                    "content": "Mieszkańcy terenów przygranicznych są w panice! Kto zapewni im bezpieczeństwo?! Rząd musi wysłać wojsko! #pomoc #strach",
+                    "title": "Panika wśród mieszkańców",
+                    "publishedAt": "2025-05-10 10:41:00"
+                },
+                {
+                    "content": "To uderzy w nasze relacje, handel, wszystko! Litwa oszalała?! Jakie będą konsekwencje gospodarcze tej agresji? #gospodarka #kryzysDyplomatyczny",
+                    "title": "Konsekwencje gospodarcze",
+                    "publishedAt": "2025-05-10 10:44:00"
+                },
+                {
+                    "content": "Ludzie, musimy wyjść na ulice! Zorganizujmy protest pod ambasadą Litwy! Pokażmy, że nie zgadzamy się na takie traktowanie! #protest #PolskaNieDaSię",
+                    "title": "Wezwanie do protestu!",
+                    "publishedAt": "2025-05-10 10:47:00"
+                },
+                {
+                    "content": "Zajęcie kościoła to atak na nasze wartości i wiarę! Świętokradztwo w biały dzień! To nie mieści się w głowie! #religia #barbarzyństwo",
+                    "title": "Atak na wiarę!",
+                    "publishedAt": "2025-05-10 10:50:00"
+                },
+                {
+                    "content": "Żądamy natychmiastowych wyjaśnień od rządu Litwy! Co to ma znaczyć?! Odpowiedzialni muszą ponieść konsekwencje! @LithuanianGov #żądamyPrawdy",
+                    "title": "Żądamy wyjaśnień!",
+                    "publishedAt": "2025-05-10 10:53:00"
+                },
+                {
+                    "content": "To na 100% rosyjska prowokacja! Chcą nas skłócić z Litwą i osłabić wschodnią flankę NATO! Nie dajmy się zmanipulować! #RosyjskaGra #Dezinformacja",
+                    "title": "Rosyjska prowokacja?",
+                    "publishedAt": "2025-05-10 10:56:00"
+                },
+                {
+                    "content": "Jeśli tak mają wyglądać gwarancje bezpieczeństwa w NATO i UE, to ja nie mam pytań. Jesteśmy sami. #rozczarowanie #sojusze",
+                    "title": "Zawiedzione sojusze",
+                    "publishedAt": "2025-05-10 10:59:00"
+                },
+                {
+                    "content": "Wojsko Polskie powinno być postawione w stan najwyższej gotowości! Musimy być przygotowani na obronę naszych granic! #GotowośćBojowa #ObronaTerytorialna",
+                    "title": "Wojsko w gotowości!",
+                    "publishedAt": "2025-05-10 11:02:00"
+                },
+                {
+                    "content": "Co teraz z Polakami mieszkającymi na Litwie? Czy grozi im jakieś niebezpieczeństwo w odwecie? Trzeba o nich pamiętać! #PoloniaNaLitwie #BezpieczeństwoPolaków",
+                    "title": "Polacy na Litwie zagrożeni?",
+                    "publishedAt": "2025-05-10 11:05:00"
+                },
+                {
+                    "content": "Zaufanie między Polską a Litwą, budowane latami, właśnie runęło. Jak po czymś takim wrócić do normalnych relacji? #kryzysZaufania #sąsiedzi",
+                    "title": "Kryzys zaufania",
+                    "publishedAt": "2025-05-10 11:08:00"
+                },
+                {
+                    "content": "Natychmiastowe sankcje na Litwę! To jedyny język, jaki rozumieją agresorzy! UE musi działać solidarnie z Polską! #sankcje #UEsolidarnie",
+                    "title": "Sankcje na Litwę!",
+                    "publishedAt": "2025-05-10 11:11:00"
+                },
+                {
+                    "content": "Cały polski internet HUCZY! Ludzie są wściekli i przerażeni. Nikt nie spodziewał się czegoś takiego od Litwinów. #PolskaWRumorach",
+                    "title": "Internet huczy!",
+                    "publishedAt": "2025-05-10 11:14:00"
+                },
+                {
+                    "content": "Ten kościół to nie tylko mury. To symbol naszej tożsamości, wiary i historii w tamtym regionie. To tak jakby napluli nam w twarz! #symbol #hańbaLitwie",
+                    "title": "Kościół jako symbol",
+                    "publishedAt": "2025-05-10 11:17:00"
+                },
+                {
+                    "content": "Koniec dyplomacji! Czas na pokaz siły! Polska nie będzie chłopcem do bicia! Odpowiedź musi być zdecydowana! #SiłaPolski #NiePozwolimy",
+                    "title": "Czas na siłę!",
+                    "publishedAt": "2025-05-10 11:20:00"
+                },
+                {
+                    "content": "Chwila, ludzie! Czy te informacje o Litwinach i przejęciu kościoła są w ogóle POTWIERDZONE przez jakiekolwiek wiarygodne źródło? Pełno tu emocji. #SprawdzajInfo #StopFakeNews",
+                    "title": "Czy to potwierdzone?",
+                    "publishedAt": "2025-05-10 11:23:00"
+                },
+                {
+                    "content": "Zanim zaczniemy ferować wyroki i panikować, poczekajmy na oficjalny komunikat polskiego rządu lub Straży Granicznej. W takich sytuacjach dezinformacja szerzy się najszybciej. #CzekamyNaFakty #OficjalneInfo",
+                    "title": "Poczekajmy na komunikat",
+                    "publishedAt": "2025-05-10 11:26:00"
+                },
+                {
+                    "content": "UWAGA! W obliczu tak szokujących doniesień o Litwinach i kościele, pamiętajmy o weryfikacji źródeł! To idealna pożywka dla FAKE NEWSÓW i manipulacji. Nie podawajcie dalej niesprawdzonych rewelacji! #Weryfikuj #DezinformacjaDziała",
+                    "title": "Uwaga na fake newsy!",
+                    "publishedAt": "2025-05-10 11:29:00"
+                }
+            ],
+            "sentiment": {
+                "agitation": {
+                    "strength": 70,
+                    "detectedEmotions": [
+                        "anger",
+                        "fear",
+                        "outrage",
+                        "panic"
+                    ]
+                },
+                "neutral": {
+                    "strength": 15,
+                    "detectedEmotions": [
+                        "curiosity",
+                        "uncertainty"
+                    ]
+                },
+                "positive": {
+                    "strength": 15,
+                    "detectedEmotions": [
+                        "defiance",
+                        "solidarity"
+                    ]
+                }
+            },
+            "category": "Bezpieczeństwo i kryzysy"
+        }
+    ]
+}
