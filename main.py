@@ -6,10 +6,21 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_core.output_parsers import PydanticOutputParser, JsonOutputParser
 from pydantic import BaseModel, Field
 import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()  # Load environment variables from .env file
+
+openai_api_key = os.environ.get("OPENAI_API_KEY")
+
+if openai_api_key:
+    print("OpenAI API key loaded successfully!")
+else:
+    print("Warning: OPENAI_API_KEY not found in .env file.")
 
 app = FastAPI()
 
-llm = ChatOpenAI(model="gpt-4.1-nano", temperature=0)
+llm = ChatOpenAI(model="gpt-4.1-mini", temperature=0)
 embeddings = OpenAIEmbeddings()
 json_output_parser = JsonOutputParser()
 
@@ -95,14 +106,13 @@ new_event_chain = prompt_new_event | llm | json_output_parser
 
 class VerificationInput(BaseModel):
     event_info: Dict[str, Any]
-    authority_info: str
+    authority_announcement: str
 
 
 class VerificationOutput(BaseModel):
     comparison: str
     correctness: str
-    justification: str
-    public_response: str
+    public_announcement: str
 
 
 prompt_verification = ChatPromptTemplate.from_template(
@@ -118,14 +128,13 @@ Here is the Event information:
 {event_info}
 
 Here is the Official information from authorities:
-{authority_info}
+{authority_announcement}
 
 Provide your analysis in a JSON object with the following structure in Polish language:
 {{
     "comparison": "Detailed comparison of the event and authority information.",
     "correctness": "Assessment of the event information's correctness (e.g., \\"Correct\\", \\"Incorrect\\", \\"Partially Correct\\", \\"Cannot Determine\\").",
-    "justification": "Explanation for the correctness assessment, referencing specific details from both sources.",
-    "public_response": "Suggested public response to the event information, including a summary of the event, a summary of the authority information, and an assessment of the correctness of the event information."
+    "public_announcement": "Suggested public response to the event information, including a summary of the event, a summary of the authority information, and an assessment of the correctness of the event information."
 }}
 
 Strictly follow the JSON format. Do not include any extra text.
@@ -210,7 +219,7 @@ async def verify_event_information_endpoint(verification_input: VerificationInpu
     try:
         result = verification_chain.invoke({
             "event_info": json.dumps(verification_input.event_info, ensure_ascii=False),
-            "authority_info": verification_input.authority_info
+            "authority_announcement": verification_input.authority_announcement
         })
         return VerificationOutput(**result)
     except Exception as e:
